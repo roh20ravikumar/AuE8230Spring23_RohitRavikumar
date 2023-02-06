@@ -24,4 +24,4 @@ RUNNING  THE CODE
 ROSRUN turtlesim turtlesim_node
 3) In another terminal run the ROSRUN tuertlbot_ass2 ________(name of the file)
 
- Images and Videos are in the assignment_ws folder
+ Images and Videos are in the assignment2_ws folder
